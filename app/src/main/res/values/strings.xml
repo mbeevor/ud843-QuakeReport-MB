@@ -15,4 +15,32 @@
 -->
 <resources>
     <string name="app_name">Quake Report</string>
+
+    <!-- Magnitude -->
+    <string name="mag_one">4.6</string>
+    <string name="mag_two">5.3</string>
+    <string name="mag_three">7.5</string>
+    <string name="mag_four">4.1</string>
+    <string name="mag_five">4.3</string>
+    <string name="mag_six">6.0</string>
+    <string name="mag_seven">2.0</string>
+
+    <!-- Location -->
+    <string name="location_one">San Francisco</string>
+    <string name="location_two">London</string>
+    <string name="location_three">Tokyo</string>
+    <string name="location_four">Mexico City</string>
+    <string name="location_five">Moscow</string>
+    <string name="location_six">Rio de Janeiro</string>
+    <string name="location_seven">Paris</string>
+
+    <!-- Date -->
+    <string name="date_one">3 June, 2017</string>
+    <string name="date_two">3 May, 2017</string>
+    <string name="date_three">2 June, 2016</string>
+    <string name="date_four">3 October, 2015</string>
+    <string name="date_five">3 September, 2015</string>
+    <string name="date_six">30 June, 2015</string>
+    <string name="date_seven">15 June, 2015</string>
+
 </resources>
